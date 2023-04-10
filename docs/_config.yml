@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   data science and pastry.
 # domain: "o1i.github.io"
 url: "https://o1i.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+# baseurl: "/docs" # the subpath of your site, e.g. /blog
 twitter_username: o1i
 github_username:  o1i
 
