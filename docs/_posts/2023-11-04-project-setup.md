@@ -5,7 +5,7 @@ Description for Mac OS. Setup for other systems may differ.
 ## Shell
 
 For now I stick with zsh because I don't like creating accounts and requiring internet 
-connection every time I open a terminal (looking at you, [warp](www.warp.dev).
+connection every time I open a terminal (looking at you, [warp](https://www.warp.dev)).
 
 ## Poetry
 
